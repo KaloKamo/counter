@@ -11,7 +11,7 @@
         margin-left: 10vw;
         position: absolute;
         width: 105vw;
-        height: 85vh;
+        height: 105vh;
         pointer-events: none;
     }
 
@@ -43,10 +43,11 @@
         color: white;}
 
     #increment-btn {
+        padding: 0px 0px;
         border-radius: 0px;
         font-size:0;
-        margin-left: 10vw;
         margin-top: -5vh;
+        margin-left: 10vw;
         height: 65vh;
         width: 110vw;
         transition: background-color 0.1s;
@@ -58,6 +59,7 @@
     }
 
     #decrement-btn {
+        padding: 0px 0px;
         border-radius: 0px;
         margin-left: 10vw;
         height: 50vh;
